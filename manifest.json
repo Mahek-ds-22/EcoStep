@@ -1,0 +1,18 @@
+{
+  "name": "Eco-Footprint Calculator",
+  "short_name": "EcoCalc",
+  "description": "Calculate and track your carbon footprint with AI-powered tips and gamification",
+  "theme_color": "#10B981",
+  "background_color": "#F0FDF4",
+  "display": "standalone",
+  "orientation": "portrait",
+  "scope": "/",
+  "start_url": "/",
+  "icons": [
+    {
+      "src": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNDgiIGhlaWdodD0iNDgiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTIgMjJIOUwxMyAxNkgxOEwyMiA5SDEzTDkgM0gyTDYgMTBIMUwyIDIyWiIgZmlsbD0iIzEwQjk4MSIgc3Ryb2tlPSIjMDU5NjY5IiBzdHJva2Utd2lkdGg9IjIiLz4KPC9zdmc+",
+      "sizes": "48x48",
+      "type": "image/svg+xml"
+    }
+  ]
+}
